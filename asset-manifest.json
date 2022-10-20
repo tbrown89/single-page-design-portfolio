@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/single-page-design-portfolio/static/css/main.c61fe05b.css",
-    "main.js": "/single-page-design-portfolio/static/js/main.8bedbbfa.js",
+    "main.js": "/single-page-design-portfolio/static/js/main.361ed01a.js",
     "static/media/image-amy.webp": "/single-page-design-portfolio/static/media/image-amy.7da98e7720cf2d1467d1.webp",
     "static/media/image-slide-3.jpg": "/single-page-design-portfolio/static/media/image-slide-3.98a0b68a0c22e4f588e2.jpg",
     "static/media/image-slide-1.jpg": "/single-page-design-portfolio/static/media/image-slide-1.8fe92b077c926e6273db.jpg",
@@ -19,10 +19,10 @@
     "static/media/icon-arrow-right.svg": "/single-page-design-portfolio/static/media/icon-arrow-right.dc94be1ff3d2abe01d83af8d931d31aa.svg",
     "static/media/icon-arrow-left.svg": "/single-page-design-portfolio/static/media/icon-arrow-left.4dc941849919da80482b072e26ed445b.svg",
     "main.c61fe05b.css.map": "/single-page-design-portfolio/static/css/main.c61fe05b.css.map",
-    "main.8bedbbfa.js.map": "/single-page-design-portfolio/static/js/main.8bedbbfa.js.map"
+    "main.361ed01a.js.map": "/single-page-design-portfolio/static/js/main.361ed01a.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.8bedbbfa.js"
+    "static/js/main.361ed01a.js"
   ]
 }
