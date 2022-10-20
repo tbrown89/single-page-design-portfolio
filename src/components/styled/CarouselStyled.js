@@ -29,12 +29,16 @@ export const CarouselStyled = styled.div`
         }
     }
 
-    img {
+    .slick-slide {
         padding: 0 .5rem;
 
         @media screen and (min-width: ${data.breakpoint.md}) {
             padding: 0 1rem;
         }
+    }
+
+    img {
+        border-radius: 10px;
     }
 `
 

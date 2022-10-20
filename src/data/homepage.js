@@ -83,7 +83,7 @@ export const data = {
     },
     slider: {
         title: "My Work",
-        image: [
+        images: [
             slideImg1,
             slideImg2,
             slideImg3,

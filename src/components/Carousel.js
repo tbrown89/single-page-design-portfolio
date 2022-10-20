@@ -9,14 +9,6 @@ const Carousel = () => {
 
     const sliderRef = useRef(null)
 
-    const images = [
-        data.slider.image[0],
-        data.slider.image[1],
-        data.slider.image[2],
-        data.slider.image[3],
-        data.slider.image[4]
-    ];
-
     const settings = {
         dots: false,
         centerMode: true,
@@ -43,7 +35,7 @@ const Carousel = () => {
         <CarouselStyled>
             <h2>{data.slider.title}</h2>
             <Slider {...settings} ref={sliderRef}>
-                {images.map(image => (
+                {data.slider.images.map(image => (
                     <div>
                         <img src={image} alt="" />
                     </div>
